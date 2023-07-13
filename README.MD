@@ -11,3 +11,5 @@ The front-end of the chatbot is developed using React, a JavaScript library for 
 The back-end of the chatbot is developed using .NET, a framework for building scalable and performant applications. The back-end API handles user requests, trains the model, communicates with it to generate responses, and sends them back to the front-end. Customize the API endpoints and logic to fit your project requirements.
 
 # Tokenization and Model training
+
+![text](https://i.imgur.com/zL6W8B7.png)
